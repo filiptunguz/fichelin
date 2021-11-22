@@ -1,0 +1,24 @@
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 300;
+  font-size: 2rem;
+  margin-top: 2rem;
+
+  span {
+    color: #ff8500;
+  }
+}
+
+h2 {
+  font-size: 2.4rem;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 1rem 0 3rem 0;
+}

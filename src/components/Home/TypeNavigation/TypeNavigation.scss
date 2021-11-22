@@ -1,0 +1,32 @@
+.TypeNavigation {
+  margin-top: 2rem;
+}
+
+.types {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.category {
+  background-color: #ff8500;
+  max-width: 100%;
+  padding: 2rem;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  p {
+    margin: 0;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+
+  .categoryCards {
+    display: flex;
+    justify-content: space-between;
+  }
+}
